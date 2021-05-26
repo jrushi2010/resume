@@ -15,7 +15,7 @@ p{font-size: 2vw;}
 .i{margin-right: 2%;color: #ff6701;}
 .edutital{line-height:20px;font-size: 1.5vw;}
 .edu{font-size: 1.5vw; line-height: 0%;}
-.int{font-size: 1.5vw;}
+.int{font-size: 1.5vw;line-height:80%;}
 @media(max-width:1200px){
     .photo{width:100px}
 }
